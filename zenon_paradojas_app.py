@@ -1,6 +1,6 @@
 """
 ===============================================================================
-SIMULADOR DE PARADOJAS: Aquiles y la Tortuga (Zenón de Elea) + Límites Laterales
+SIMULADOR DE PARADOJAS: Aquiles y la Tortuga (Zenón) + Límites Laterales
 ===============================================================================
 
 Proyecto: "Simuladores de Paradojas" — Línea tecnológica de programación (Python)
